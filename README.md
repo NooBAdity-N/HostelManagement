@@ -1,4 +1,4 @@
 # HostelManagement
 This is my first Git repository
 <br>
--Aditya Nagargoje
+-Aditya Nagargoje and Amey
